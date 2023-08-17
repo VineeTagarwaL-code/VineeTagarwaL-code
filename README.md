@@ -1,7 +1,7 @@
 ![image](https://github.com/VineeTagarwaL-code/VineeTagarwaL-code/assets/91052168/6bb85283-1df1-492d-b142-49114de273a6)![Header](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Vineet Agarwal</h1>
 <h3 align="center">A FullStack Web Developer from INDIA</h3>
-<img align="left" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimpletexting.com%2Fblog%2Fhow-to-use-gifs-in-text-messages%2F&psig=AOvVaw1ToXX39ZmfAGbXnJ4wHH_O&ust=1692335094223000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNih1tH14oADFQAAAAAdAAAAABAK">
+<img align="left" alt="coding" width="400" src="https://simpletexting.com/wp-content/uploads/2023/07/cat-typing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetagarwal-code&label=Profile%20views&color=0e75b6&style=flat" alt="vineetagarwal-code" /> </p>
 
 - 🔭 I’m currently working on [spotify Clone](https://spotifiey.netlify.app/)
