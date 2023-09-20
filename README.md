@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [YourQuery](https://github.com/VineeTagarwaL-code/YourQuery)
 
-- 🌱 I’m currently learning **Nodejs , MongoDb & Express**
+- 🌱 I’m currently learning **BackendDev**
 
 - 💬 Ask me about **react , java , c**
 
