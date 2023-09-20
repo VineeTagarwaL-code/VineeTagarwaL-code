@@ -30,7 +30,7 @@
 
 
 ### Blogs posts
-1) vite@create vs npm-create-react-app - [Link 💬](https://medium.com/@vineetagarwal.now/vite-create-vs-npm-create-react-app-1fac1c9afec2) 
+## vite@create vs npm-create-react-app - [Link 💬](https://medium.com/@vineetagarwal.now/vite-create-vs-npm-create-react-app-1fac1c9afec2) 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineetagarwal-code&show_icons=true&locale=en&layout=compact" alt="vineetagarwal-code" /></p>
