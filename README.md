@@ -35,6 +35,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineetagarwal-code&show_icons=true&theme=dark&title_color=ff00d0&text_color=db1a1a&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="vineetagarwal-code" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineetagarwal-code&show_icons=true&theme=dark&title_color=ff00d0&text_color=db0606&locale=en" alt="vineetagarwal-code" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineetagarwal-code&show_icons=true&theme=dark&title_color=ff00d0&text_color=db0606&hide_border=true&locale=en" alt="vineetagarwal-code" /></p>
 
