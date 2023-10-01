@@ -37,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineetagarwal-code&show_icons=true&theme=dark&title_color=ff00d0&text_color=db0606&locale=en" alt="vineetagarwal-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineetagarwal-code&theme=dark" alt="vineetagarwal-code" /></p>
+[![An image of @vineetagarwalcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vineetagarwalcode)](https://holopin.io/@vineetagarwalcode)
