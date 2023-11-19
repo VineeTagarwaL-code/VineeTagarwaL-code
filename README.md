@@ -36,16 +36,19 @@ Being a tech enthusiast and a college student, my curiosity is sparked by the po
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
+## Github Stats
 <p style="display:flex; align=center; justify-content:center; ">
 <img src="https://github-readme-stats.vercel.app/api?username=vineetagarwal-code&theme=midnight-purple" style="margin-right:4px;">
 <img src="https://streak-stats.demolab.com/?user=vineetagarwal-code&theme=holi-theme">
 </p>
 
 
-
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 ## Latest Blogs
 <!-- BLOGPOSTS:START -->
  - 🌮 [React : Creation](https://medium.com/@vineetagarwal.now/vite-create-vs-npm-create-react-app-1fac1c9afec2)
+ - 🐋 [Docker : Containerize your react app](https://vineetagarwal.hashnode.dev/containerize-your-react-app-easily)
+
 <!-- BLOGPOSTS:END -->
 
 
