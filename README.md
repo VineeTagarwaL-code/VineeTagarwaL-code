@@ -36,12 +36,10 @@ Being a tech enthusiast and a college student, my curiosity is sparked by the po
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineetagarwal-code&show_icons=true&theme=dark&title_color=ff00d0&text_color=db0606&bg_color=000000&locale=en&layout=compact" alt="vineetagarwal-code" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineetagarwal-code&show_icons=true&theme=dark&title_color=ff00d0&text_color=db0606&locale=en" alt="vineetagarwal-code" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineetagarwal-code&theme=dark" alt="vineetagarwal-code" /></p>
+<p style="display:flex; align=center; justify-content:center; ">
+<img src="https://github-readme-stats.vercel.app/api?username=vineetagarwal-code&theme=midnight-purple" style="margin-right:4px;">
+<img src="https://streak-stats.demolab.com/?user=vineetagarwal-code&theme=holi-theme">
+</p>
 
 
 
