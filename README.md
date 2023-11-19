@@ -44,6 +44,7 @@ Being a tech enthusiast and a college student, my curiosity is sparked by the po
 
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
 ## Latest Blogs
 <!-- BLOGPOSTS:START -->
  - 🌮 [React : Creation](https://medium.com/@vineetagarwal.now/vite-create-vs-npm-create-react-app-1fac1c9afec2)
