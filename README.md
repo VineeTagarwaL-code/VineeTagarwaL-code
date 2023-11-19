@@ -9,7 +9,7 @@
 
 ## About Me
 <p style="font-size:7px;">
-Being a tech enthusiast and a college student, my curiosity is sparked by the possibilities of technology and the open-source world. My current focus lies in full stack web development, where I'm more inclined towards backend development and cybersecurity side. Alongside my technical pursuits, I find pleasure in expressing myself creatively through writing blogs and practicing design. Engaging with podcasts and books is another cherished hobby of mine, as I love to expand my knowledge and gain valuable insights from diverse sources. My ultimate goal is to make valuable contributions to the tech community while gaining experience and seeking meaningful connections.
+Being a tech enthusiast and a college student, my curiosity is sparked by the possibilities of technology and the open-source world. My current focus lies in full stack web development, where I'm more inclined towards backend development and devops side. Alongside my technical pursuits, I find pleasure in expressing myself creatively through writing blogs and exploring new technologied. Engaging with podcasts and books is another cherished hobby of mine, as I love to expand my knowledge and gain valuable insights from diverse sources. My ultimate goal is to make valuable contributions to the tech community while gaining experience and seeking meaningful connections.
 </p>
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
