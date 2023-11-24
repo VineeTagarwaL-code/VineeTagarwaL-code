@@ -36,6 +36,11 @@ Being a tech enthusiast and a college student, my curiosity is sparked by the po
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
+## Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=vineeTagarwaL-code&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
 ## Github Stats
 <p style="display:flex; align=center; justify-content:center; ">
 <img src="https://github-readme-stats.vercel.app/api?username=vineetagarwal-code&theme=midnight-purple" style="margin-right:4px;">
