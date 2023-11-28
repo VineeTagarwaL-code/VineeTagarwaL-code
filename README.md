@@ -56,7 +56,6 @@ Being a tech enthusiast and a college student, my curiosity is sparked by the po
  - 🐋 [Docker : Containerize your react app](https://vineetagarwal.hashnode.dev/containerize-your-react-app-easily)
 
 <!-- BLOGPOSTS:END -->
-
-
+  ![Snake animation](https://github.com/vineeTagarwaL-code/vineeTagarwaL-code/blob/output/github-contribution-grid-snake.svg)
 
 
