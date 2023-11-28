@@ -7,6 +7,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vineetagarwal2004/)
 ![border-seperator](assets/borderseparator.gif) 
 
+![](https://komarev.com/ghpvc/?username=vineeTagarwaL-code)
 ## About Me
 <p style="font-size:7px;">
 Being a tech enthusiast and a college student, my curiosity is sparked by the possibilities of technology and the open-source world. My current focus lies in full stack web development, where I'm more inclined towards backend development and devops side. Alongside my technical pursuits, I find pleasure in expressing myself creatively through writing blogs and exploring new technologies. Engaging with podcasts and books is another cherished hobby of mine, as I love to expand my knowledge and gain valuable insights from diverse sources. My ultimate goal is to make valuable contributions to the tech community while gaining experience and seeking meaningful connections.
