@@ -49,9 +49,12 @@ Being a tech enthusiast and a college student, my curiosity is sparked by the po
 </p>
 
 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
+														 
+![github-wrapped](https://github.com/VineeTagarwaL-code/VineeTagarwaL-code/assets/91052168/0ace40a0-9518-40a3-b0ca-ac8af492aaea)
 
 ## Latest Blogs
+
 <!-- BLOGPOSTS:START -->
  - 🌮 [React : Creation](https://medium.com/@vineetagarwal.now/vite-create-vs-npm-create-react-app-1fac1c9afec2)
  - 🐋 [Docker : Containerize your react app](https://vineetagarwal.hashnode.dev/containerize-your-react-app-easily)
