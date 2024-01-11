@@ -11,8 +11,8 @@
 ## About Me
 <p style="font-size:7px;">
 Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software 
-01000011 01001111 01000100 01000101 
 </p>
+<p>Fun fact : i 01000011 01001111 01000100 01000101  in Binary</p>
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Technologies
