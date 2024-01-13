@@ -8,7 +8,7 @@
 ![border-seperator](assets/borderseparator.gif) 
 
 ![](https://komarev.com/ghpvc/?username=vineeTagarwaL-code)
-## About Me
+## About Vineet
 <p style="font-size:7px;">
 Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software 
 </p>
