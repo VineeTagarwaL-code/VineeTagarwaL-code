@@ -14,6 +14,6 @@
 +                                                        +
 ```
 
-come find me at [vineet.tech](https://vineet.tech) <br/>
-I write sometimes [blog.vineet](https://blog.vineet.tech)
+come find me at [vineet.pro](https://vineet.pro) <br/>
+I write sometimes [blog.vineet](https://blog.vineet.pro)
 
